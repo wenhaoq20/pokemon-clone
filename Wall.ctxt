@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=r\ c
+comment1.target=Wall(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getSymbol()
+comment3.params=
+comment3.target=boolean\ isAttackable()
+numComments=4

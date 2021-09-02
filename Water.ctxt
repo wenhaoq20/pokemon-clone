@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Water
+comment1.params=
+comment1.target=Water()
+comment2.params=name\ atk\ hp\ def\ sped\ spatk\ sdef\ lvl\ exp\ fHp\ type
+comment2.target=Water(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=void\ addStat()
+comment4.params=opp
+comment4.target=void\ attack(Character)
+numComments=5
