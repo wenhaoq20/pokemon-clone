@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ChoiceHandler
+comment1.params=g
+comment1.target=ChoiceHandler(Game)
+comment2.params=event
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

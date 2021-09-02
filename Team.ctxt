@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Team
+comment1.params=p
+comment1.target=void\ addTeam(Character)
+comment2.params=
+comment2.target=boolean\ teamBattle()
+comment3.params=
+comment3.target=int\ getPlayerPos()
+comment4.params=n
+comment4.target=void\ setPlayerPos(int)
+comment5.params=
+comment5.target=void\ startB()
+comment6.params=
+comment6.target=void\ stopB()
+comment7.params=
+comment7.target=boolean\ teamAlive()
+numComments=8

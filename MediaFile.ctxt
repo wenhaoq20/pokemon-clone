@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MediaFile
+comment0.text=\r\n\ Convenience\ class\ for\ getting\ input\ from\ a\ text\ file.\r\n\ You\ do\ not\ need\ to\ understand\ the\ code,\ but\ should\ understand\r\n\ the\ purpose\ of\ each\ method\ in\ this\ class.\r\n\ \r\n\ @author\ ckinnard\ (Modified\ by\ STakahashi)\r\n\ @version\ 9/15/19\r\n
+comment1.params=
+comment1.target=void\ setFileName()
+comment1.text=\r\n\ Allows\ the\ user\ to\ select\ the\ name\ of\ the\ file\ that\ they\ would\ like\r\n\ to\ work\ with.\ \ There\ should\ be\ no\ spaces\ in\ the\ name\ and\ this\ \r\n\ method\ automatically\ appends\ .txt\ to\ the\ name.\r\n
+comment2.params=file
+comment2.target=void\ setFileName(java.lang.String)
+comment2.text=\r\n\ Instead\ of\ asking\ the\ user\ to\ input\ the\ file\ name,\ the\ name\ can\r\n\ be\ sent\ as\ a\ parameter.\ \ There\ should\ be\ no\ spaces\ in\ the\ name\ and\ this\ \r\n\ method\ automatically\ appends\ .txt\ to\ the\ name.\r\n\ \r\n\ @param\ file\ the\ name\ of\ the\ file\ name\ without\ .txt\r\n
+comment3.params=
+comment3.target=java.lang.String\ readString()
+comment3.text=\r\n\ Opens\ a\ file\ to\ be\ used\ for\ input\ (if\ not\ already\ open),\r\n\ reads\ a\ line\ from\ the\ file,\ and\ returns\ the\ entire\ line\ of\ data.\r\n\ \r\n\ @return\ a\ line\ of\ text\ from\ the\ input\ file\r\n
+comment4.params=i
+comment4.target=void\ writeString(java.lang.String)
+comment4.text=\r\n\ Opens\ a\ file\ to\ be\ used\ for\ output\ (if\ not\ already\ open),\r\n\ writes\ a\ string\ to\ the\ file\ and\ then\ writes\ a\ newline.\r\n\ \r\n\ @param\ i\ The\ string\ text\ to\ be\ written.\ Follwing\ the\ string,\ a\ newline\ is\ added\ to\ the\ file.\r\n
+comment5.params=i
+comment5.target=void\ writeString2(java.lang.String)
+comment6.params=
+comment6.target=void\ saveAndClose()
+comment6.text=\r\n\ Saves\ and\ closes\ the\ file\ (when\ opened\ for\ either\ input\ or\ output).\ \r\n\ \r\n\ Note\:\ If\ the\ program\ terminates\ before\ the\ file\ is\ closed,\r\n\ no\ data\ will\ be\ saved\ or\ written\ to\ the\ file.\r\n
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GameU
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=lvl
+comment10.target=void\ enemySpawn(int)
+comment2.params=u
+comment2.target=void\ startMenu(java.lang.String)
+comment3.params=u
+comment3.target=void\ starterPick(java.lang.String)
+comment4.params=player\ enemy
+comment4.target=void\ battle(Character,\ Character)
+comment5.params=load
+comment5.target=void\ loadGame(java.lang.String)
+comment6.params=n
+comment6.target=void\ switchParty(int)
+comment7.params=player\ enemy
+comment7.target=void\ simBattle(Character,\ Character)
+comment8.params=current
+comment8.target=void\ mapSave(Map)
+comment9.params=
+comment9.target=void\ gameSave()
+numComments=11
